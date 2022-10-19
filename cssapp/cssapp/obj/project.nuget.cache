@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "wQfqQDzrfTZeD+pYD5BIXUM9FQk1kATWJPYFiw9Wmz9+lnNAnNCQI747nnbZ7qPfeKYHSYAfnE+6K15Zc8xgsg==",
+  "success": true,
+  "projectFilePath": "/Users/aaroncontrerasmendoza/Projects/cssapp/cssapp/cssapp/cssapp.csproj",
+  "expectedPackageFiles": [
+    "/Users/aaroncontrerasmendoza/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/aaroncontrerasmendoza/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/aaroncontrerasmendoza/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/aaroncontrerasmendoza/.nuget/packages/xamarin.essentials/1.7.0/xamarin.essentials.1.7.0.nupkg.sha512",
+    "/Users/aaroncontrerasmendoza/.nuget/packages/xamarin.forms/5.0.0.2196/xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

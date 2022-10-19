@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "zANVCZNiVLGH0iJRcDdzIqevGa1HR0t+uTWaw5GOF27ycjVfta+jF0/64j+nW3gV57pntjGyBs74Luo0MOYLFw==",
+  "success": true,
+  "projectFilePath": "/Users/aaroncontrerasmendoza/Projects/cssapp/cssapp/cssapp.iOS/cssapp.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/aaroncontrerasmendoza/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/aaroncontrerasmendoza/.nuget/packages/xamarin.essentials/1.7.0/xamarin.essentials.1.7.0.nupkg.sha512",
+    "/Users/aaroncontrerasmendoza/.nuget/packages/xamarin.forms/5.0.0.2196/xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

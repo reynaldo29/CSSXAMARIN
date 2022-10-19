@@ -1,0 +1,15 @@
+/Users/aaroncontrerasmendoza/Projects/cssapp/cssapp/cssapp/bin/Debug/netstandard2.0/cssapp.deps.json
+/Users/aaroncontrerasmendoza/Projects/cssapp/cssapp/cssapp/bin/Debug/netstandard2.0/cssapp.dll
+/Users/aaroncontrerasmendoza/Projects/cssapp/cssapp/cssapp/bin/Debug/netstandard2.0/ref/cssapp.dll
+/Users/aaroncontrerasmendoza/Projects/cssapp/cssapp/cssapp/bin/Debug/netstandard2.0/cssapp.pdb
+/Users/aaroncontrerasmendoza/Projects/cssapp/cssapp/cssapp/obj/Debug/netstandard2.0/cssapp.csproj.AssemblyReference.cache
+/Users/aaroncontrerasmendoza/Projects/cssapp/cssapp/cssapp/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/aaroncontrerasmendoza/Projects/cssapp/cssapp/cssapp/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/aaroncontrerasmendoza/Projects/cssapp/cssapp/cssapp/obj/Debug/netstandard2.0/Style.css.g.cs
+/Users/aaroncontrerasmendoza/Projects/cssapp/cssapp/cssapp/obj/Debug/netstandard2.0/cssapp.AssemblyInfoInputs.cache
+/Users/aaroncontrerasmendoza/Projects/cssapp/cssapp/cssapp/obj/Debug/netstandard2.0/cssapp.AssemblyInfo.cs
+/Users/aaroncontrerasmendoza/Projects/cssapp/cssapp/cssapp/obj/Debug/netstandard2.0/cssapp.csproj.CoreCompileInputs.cache
+/Users/aaroncontrerasmendoza/Projects/cssapp/cssapp/cssapp/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/aaroncontrerasmendoza/Projects/cssapp/cssapp/cssapp/obj/Debug/netstandard2.0/cssapp.dll
+/Users/aaroncontrerasmendoza/Projects/cssapp/cssapp/cssapp/obj/Debug/netstandard2.0/ref/cssapp.dll
+/Users/aaroncontrerasmendoza/Projects/cssapp/cssapp/cssapp/obj/Debug/netstandard2.0/cssapp.pdb
